@@ -1,0 +1,11 @@
+{
+  "name": "toplu-ban",
+  "version": "1.0.0",
+  "description": "Kod M²#0001'e Aittir Çalınması Veya İzin Alınmadan Paylaşılması Yasaktır ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M²#0001",
+  "license": "ISC"
+}
